@@ -105,12 +105,12 @@ Apperta will contract with one or many Technical Custodian Providers to deliver 
 * 1. Primary code repositories (Master) must remain under the direction of Apperta
 * 2. Pull requests must be reviewed and commented or accepted or declined within 30 days
 * 3. Branches of the primary repositories should be held by the Maintainer and must be merged with the Master:
-  * 3.1 After every work package is complete
-  * 3.2 After bug fixes or remedial work completed
-  * 3.3 At least every month when routine work is carried out
-  * 3.4 Within 14 days of a request by Apperta
+  * a. After every work package is complete
+  * b. After bug fixes or remedial work completed
+  * c. At least every month when routine work is carried out
+  * d. Within 14 days of a request by Apperta
 * 4. Repositories must include the following files in plain text or Markdown format within the repository:
-  * 4.1 Readme file to contain (or directions to the location of files containing):
+  * a. Readme file to contain (or directions to the location of files containing):
     * i. An overview of the product
     * ii.  Installation instructions to enable a user to install and start the product
     * iii. Dependencies required to start the product
@@ -120,7 +120,7 @@ Apperta will contract with one or many Technical Custodian Providers to deliver 
     * vii. Attributions
     * viii. Reference to Changelog
     * ix. LICENCE file including a copy of the OSI approved licence
-  * 4.2 The most recent version of the &#39;Apperta Foundation Disclaimer Notice&#39; , available here: [https://github.com/AppertaFoundation/apperta-documents/blob/master/apperta-disclaimer.md](https://github.com/AppertaFoundation/apperta-documents/blob/master/apperta-disclaimer.md)
+  * b. The most recent version of the Apperta Foundation Disclaimer Notice is available here: [https://github.com/AppertaFoundation/apperta-documents/blob/master/apperta-disclaimer.md](https://github.com/AppertaFoundation/apperta-documents/blob/master/apperta-disclaimer.md)
 
 ** **
 
