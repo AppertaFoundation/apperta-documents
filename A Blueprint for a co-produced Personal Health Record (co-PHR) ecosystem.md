@@ -510,12 +510,6 @@ The Governance Framework that relates to Information and Clinical Governance mus
 
 The coPHR comprises the following categories of data which together make up the coPHR: 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-0pky">Category of Data</th>
@@ -540,19 +534,6 @@ The coPHR comprises the following categories of data which together make up the 
 
 The table below summarises the access rights of all parties.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-w747{background-color:#dae8fc;text-align:left;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-hafo{background-color:#fffc9e;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-elvq{background-color:#fffc9e;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-pidv{background-color:#ffce93;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-x6qq{background-color:#dae8fc;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-hafo"><span style="font-weight:bold;color:rgb(248, 161, 2)">Party</span></th>
@@ -611,15 +592,6 @@ In the context of the coPHR, the Data Subject is the person (patient) to whom th
 
 In the context of the coPHR, there may be one or more Data Controllers for different subsets of data as per the table below
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-bk81{background-color:#ecf4ff;text-align:left}
-.tg .tg-57mh{background-color:#ffffc7;text-align:left}
-.tg .tg-0qe0{background-color:#ecf4ff;text-align:left;vertical-align:top}
-.tg .tg-m9r4{background-color:#ffffc7;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-bk81">Type of Data</th>
@@ -685,16 +657,6 @@ Apperta will provide facilities where interested parties can make suggestions fo
 
 The Governance Framework and associated agreements define the following parties:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-57mh{background-color:#ffffc7;text-align:left}
-.tg .tg-bk81{background-color:#ecf4ff;text-align:left}
-.tg .tg-s268{text-align:left}
-.tg .tg-0qe0{background-color:#ecf4ff;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-57mh">Party</th>
@@ -795,14 +757,6 @@ Some time later, George and Mary have a disagreement with the home care provider
 
 This Appendix outlines the main terms (the heads of agreement) for each of the agreements in the governance framework, listed in the table below.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-4caf{font-weight:bold;background-color:#ffffc7;color:#f8a102;border-color:inherit;text-align:left}
-.tg .tg-tto6{background-color:#ecf4ff;border-color:inherit;text-align:left}
-.tg .tg-xldj{border-color:inherit;text-align:left}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-4caf">Name of Agreement</th>
@@ -973,16 +927,6 @@ This duration will need to be clarified to ensure alignment with relevant NHS gu
 
 # 14. Appendix 4: Definition of Terms 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-4caf{font-weight:bold;background-color:#ffffc7;color:#f8a102;border-color:inherit;text-align:left}
-.tg .tg-tto6{background-color:#ecf4ff;border-color:inherit;text-align:left}
-.tg .tg-xldj{border-color:inherit;text-align:left}
-.tg .tg-0qe0{background-color:#ecf4ff;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 852px">
 <colgroup>
 <col style="width: 201px">
