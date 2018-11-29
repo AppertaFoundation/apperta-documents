@@ -1024,12 +1024,12 @@ This duration will need to be clarified to ensure alignment with relevant NHS gu
 
 We would like to acknowledge the following people who made contributions to the document:
 
-Hildegard McNicoll
-Ewan Davis
-Ian McNicoll
-Roland Appel
-David Jobling
-Peter Coates
+- Hildegard McNicoll
+- Ewan Davis
+- Ian McNicoll
+- Roland Appel
+- David Jobling
+- Peter Coates
 
 # Endnotes
 
