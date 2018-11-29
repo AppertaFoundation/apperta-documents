@@ -9,55 +9,56 @@
 3. Background
 4. Nine Principles of the coPHR
 5. Construction of a coPHR
-**5.1** The coPHR Schema
-**5.2** The Data Repository (DR)
-**5.3** Authentication and Identity Assurance Services (AIS)
-**5.4** A Discovery Service
-**5.5** coPHR-compliant Applications
-**5.6** Connectors to other systems
-**5.7** Connectors to Notification Services
+- **5.1** The coPHR Schema
+- **5.2** The Data Repository (DR)
+- **5.3** Authentication and Identity Assurance Services (AIS)
+- **5.4** A Discovery Service
+- **5.5** coPHR-compliant Applications
+- **5.6** Connectors to other systems
+- **5.7** Connectors to Notification Services
 
 6. coPHR Ecosystem
-**6.1** Architecture
-**6.2** Data Repository (DR)
-**6.3** Application Programming Interfaces (APIs)
-**6.4** Applications
-**6.5** Ecosystems Services
+- **6.1** Architecture
+- **6.2** Data Repository (DR)
+- **6.3** Application Programming Interfaces (APIs)
+- **6.4** Applications
+- **6.5** Ecosystems Services
 
 7. coPHR Schema
-**7.1** Core coPHR Schema
-**7.2** coPHR Schema Extensions
+- **7.1** Core coPHR Schema
+- **7.2** coPHR Schema Extensions
 
 8. Technical Requirements
-**8.1** Data Repository (DR)
-**8.2** coPHR Applications
+- **8.1** Data Repository (DR)
+- **8.2** coPHR Applications
 
 9. Proposed extensions to the coPHR Ecosystem
 
 10. coPHR Governance
-**10.2** Technical Governance
-**10.3** Maintenance of the Governance Framework
-**10.4** Legal Agreements
-**10.5** Trusted Body
+- **10.2** Technical Governance
+- **10.3** Maintenance of the Governance Framework
+- **10.4** Legal Agreements
+- **10.5** Trusted Body
 
 11. Appendix 1: Scenario
 
 12. Appendix 2: Governance Framework Heads of Agreement
-
-**12.1** Apperta and DRP Agreement
-**12.2** Apperta and Developer Agreement
-**12.3** Apperta and Third Party Agreement
-**12.4** Data Subject and DRP Agreement
-**12.5** Third Party and DRP Agreement
+- **12.1** Apperta and DRP Agreement
+- **12.2** Apperta and Developer Agreement
+- **12.3** Apperta and Third Party Agreement
+- **12.4** Data Subject and DRP Agreement
+- **12.5** Third Party and DRP Agreement
 
 13. Appendix 3 - Data Retention Policy
 
 14. Appendix 4: Definition of Terms
 
+<br>
+<br>
 
-Hildegard (Hildi) McNicoll (née Franke) 1959 - 2018
-This document is dedicated to one of its authors Hildi McNicoll
-who sadly died shortly before its publication.
+<center>![hildi.png](hildi.png)</center>
+
+**Hildegard (Hildi) McNicoll (née Franke) 1959 - 2018 This document is dedicated to one of its authors Hildi McNicoll who sadly died shortly before its publication.**
 
 
 # 1. Introduction
