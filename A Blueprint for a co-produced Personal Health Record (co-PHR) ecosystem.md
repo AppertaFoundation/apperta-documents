@@ -56,7 +56,7 @@
 <br>
 <br>
 
-<center><img src="hildi.png"></center>
+<p align="center"><img src="hildi.png"></p>
 
 **Hildegard (Hildi) McNicoll (née Franke) 1959 - 2018 This document is dedicated to one of its authors Hildi McNicoll who sadly died shortly before its publication.**
 
