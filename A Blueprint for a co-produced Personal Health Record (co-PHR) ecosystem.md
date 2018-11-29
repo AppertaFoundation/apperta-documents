@@ -974,7 +974,7 @@ This duration will need to be clarified to ensure alignment with relevant NHS gu
   </tr>
   <tr>
     <td class="tg-0qe0">GDPR</td>
-    <td class="tg-0lax">General Data and Protection Regulations - see [https://www.eugdpr.org/](https://www.eugdpr.org/)</td>
+    <td class="tg-0lax">General Data and Protection Regulations - see <a href="https://www.eugdpr.org/">https://www.eugdpr.org</a></td>
   </tr>
   <tr>
     <td class="tg-0qe0">HCP</td>
@@ -986,7 +986,7 @@ This duration will need to be clarified to ensure alignment with relevant NHS gu
   </tr>
   <tr>
     <td class="tg-0qe0">openEHR</td>
-    <td class="tg-0lax">open standard for health and care data, see [https://www.openehr.org/](https://www.openehr.org/)</td>
+    <td class="tg-0lax">open standard for health and care data, see <a href="https://www.openehr.org/">https://www.openehr.org/</a></td>
   </tr>
   <tr>
     <td class="tg-0qe0">Personal Data</td>
