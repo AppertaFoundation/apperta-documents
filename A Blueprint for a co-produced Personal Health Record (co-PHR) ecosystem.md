@@ -281,7 +281,7 @@ There are four ecosystem services that are used by all applications:
 
 **- Connectors** - These provide connections to other systems. Their primary purpose is to enable the coPHR to upload information from other systems such as the patient’s GP record but may expose patient, device or professional data stored in the coPHR as a ‘system of record’.
 
-This blueprint for the Ecosystem Services is based on the definition of an open platform described in [https://apperta.org/openplatforms]("Defining an Open Platform") published by the Apperta Foundation. The proposed coPHR ecosystem is in effect a microcosm of an open platform and represents an excellent starting point for a health and care community wishing to implement an open platform.
+This blueprint for the Ecosystem Services is based on the definition of an open platform described in ["Defining an Open Platform"](https://apperta.org/openplatforms) published by the Apperta Foundation. The proposed coPHR ecosystem is in effect a microcosm of an open platform and represents an excellent starting point for a health and care community wishing to implement an open platform.
 
 # 7. coPHR Schema
 
@@ -338,12 +338,11 @@ Figure 3: The Problems List openEHR template
 
 Examples of other templates can be found
 at:
-- [http://ckm.apperta.org/](http://ckm.apperta.org/) ckm/#showTemplate_1051.57.71 (Allergies List)
-- [http://ckm.apperta.org/ckm/#showTemplate_](http://ckm.apperta.org/ckm/#showTemplate_) 051.57.134 (Problems List)
-- [http://ckm.apperta.org/ckm/#showTemplate_](http://ckm.apperta.org/ckm/#showTemplate_) 051.57.140 (Procedures List)
-- [http://ckm.apperta.org/](http://ckm.apperta.org/) ckm/#showTemplate_1051.57.143 (Medication Statement List)
-- [http://ckm.apperta.org/](http://ckm.apperta.org/) ckm/#showTemplate_1051.57.141 (Vital Signs Encounter)
-
+- [http://ckm.apperta.org/ckm/#showTemplate_1051.57.71 (Allergies List)](http://ckm.apperta.org/ckm/#showTemplate_1051.57.71)
+- [http://ckm.apperta.org/ckm/#showTemplate_051.57.134 (Problems List)](http://ckm.apperta.org/ckm/#showTemplate_051.57.134)
+- [http://ckm.apperta.org/ckm/#showTemplate_051.57.140 (Procedures List)](http://ckm.apperta.org/ckm/#showTemplate_051.57.140)
+- [http://ckm.apperta.org/ckm/#showTemplate_1051.57.143 (Medication Statement List)](http://ckm.apperta.org/ckm/#showTemplate_1051.57.143)
+- [http://ckm.apperta.org/ckm/#showTemplate_1051.57.141 (Vital Signs Encounter)](http://ckm.apperta.org/ckm/#showTemplate_1051.57.141)
 
 A first tranche of FHIR connectors (based on these templates) is at:
 
@@ -385,8 +384,9 @@ The Professional Records Standards Body (PRSB) are running a consultation to dev
 
 Examples of local variations can be found at these links:
 
-[http://www.meht.nhs.uk/EasysiteWeb/getresource.axd?AssetID=13290&type=full&servicetype=Attachment](http://www.meht.nhs.uk/EasysiteWeb/getresource.axd?AssetID=13290&type=full&servicetype=Attachment)[http://www.royalberkshire.nhs.uk/Downloads/GPs/GP%20protocols%20and%20guidelines/Maternity%20Guidelines%20and%20Policies/Professional%20guidelines/Record%20keeping%standards_V3.2_GL901.pdf](http://www.royalberkshire.nhs.uk/Downloads/GPs/GP%20protocols%20and%20guidelines/Maternity%20Guidelines%20and%20Policies/Professional%20guidelines/Record%20keeping%standards_V3.2_GL901.pdf)
-[http://www.gloshospitals.nhs.uk/SharePoint1/Non-Clinical%20Policies/B0556.pdf](http://www.gloshospitals.nhs.uk/SharePoint1/Non-Clinical%20Policies/B0556.pdf)
+- [http://www.meht.nhs.uk/EasysiteWeb/getresource.axd?AssetID=13290&type=full&servicetype=Attachment](http://www.meht.nhs.uk/EasysiteWeb/getresource.axd?AssetID=13290&type=full&servicetype=Attachment)
+- [http://www.royalberkshire.nhs.uk/Downloads/GPs/GP%20protocols%20and%20guidelines/Maternity%20Guidelines%20and%20Policies/Professional%20guidelines/Record%20keeping%standards_V3.2_GL901.pdf](http://www.royalberkshire.nhs.uk/Downloads/GPs/GP%20protocols%20and%20guidelines/Maternity%20Guidelines%20and%20Policies/Professional%20guidelines/Record%20keeping%standards_V3.2_GL901.pdf)
+- [http://www.gloshospitals.nhs.uk/SharePoint1/Non-Clinical%20Policies/B0556.pdf](http://www.gloshospitals.nhs.uk/SharePoint1/Non-Clinical%20Policies/B0556.pdf)
 
 # 8. Technical Requirements
 
