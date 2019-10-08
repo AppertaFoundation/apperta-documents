@@ -4,10 +4,9 @@ care
 Produced by and Copyright of Apperta Foundation CIC 2019. This
 information is licensed under Creative Commons BY-SA-4.0. To view this
 licence visit:
-[[https://creativecommons.org/licenses/by-sa/4.0/]{.underline}](https://creativecommons.org/licenses/by-sa/4.0/)
+[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![](/media/image1.png){width="0.9166666666666666in"
-height="0.3229166666666667in"}](https://creativecommons.org/licenses/by-sa/4.0/)
+<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">![eChain of Prevention](/media/image1.png)</a>
 
 The authors of this document and first deteriorating patient workshop
 team would like to dedicate this document to Master Aaron McCarter and
@@ -243,11 +242,9 @@ poorly integrated. The problem of integration and having an active
 efferent limb is further highlighted by the move of many recent eObs
 vendors to partner with or become bigger EHR providers.
 
-Figure 1. Delivering electronic transformation of deteriorating patient
-care in heterogeneous settings.
+*Figure 1. Delivering electronic transformation of deteriorating patient care in heterogeneous settings*
 
-![](/media/image2.png){width="6.267716535433071in"
-height="2.0416666666666665in"}
+![Figure 1. Delivering electronic transformation of deteriorating patient care in heterogeneous settings](/media/image2.png)
 
 System development and deployment on a mix of different paper and
 digital systems means that each implementation must draw clinical
@@ -429,7 +426,7 @@ communication ring that emphasises the flow and evolution of clinical
 information is as important as the call for help in an established
 crisis.
 
-![](/media/image3.png){width="6.270833333333333in" height="2.65625in"}
+![eChain of Prevention Version 2](/media/image3.png)
 
 Summary
 
@@ -697,10 +694,12 @@ appreciated. Pharmacology or digital health technology mechanism of
 action approach allows developers to target weak links in the chain of
 prevention.
 
-Figure 2. Structure & function approach to digital health technology
-design
+*Figure 2. Structure & function approach to digital health technology
+design*
 
-### ![](/media/image4.png){width="6.270833333333333in" height="2.125in"}Building a Minimum Viable Prototype (not product!)
+![Figure 2. Structure & function approach to digital health technology design](/media/image4.png)
+
+### Building a Minimum Viable Prototype (not product!)
 
 Following exploration and development of a robust understanding of the
 system as outlined above, design of a minimum viable prototype (MVP) for
